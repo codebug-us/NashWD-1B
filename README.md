@@ -27,7 +27,7 @@
 # THE CODE
 > Don't worry if your vacation site doesn't look great, you'll be adding the styles later. 
 
-Your recipe page must include the following:
+Your vacation page must include the following:
 
 * A header with the name of your destination.
 * A paragraph explaining some attraction and/or fun facts about your destination.
