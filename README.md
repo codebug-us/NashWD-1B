@@ -6,7 +6,8 @@
 #### Your mission is create a webpage for your dream vacation.
 1. Find a spot where you would like to vacation 
 2. Via the terminal, create a new folder on your desktop called `coding`.
-3. `cd` into your `coding` folder and create a `dream-vacay.html` file.
+3. `cd` into your `coding` folder and create another folder called `NashWD-1B`
+4. `cd` into your `NashWD-1B` folder and create a `dream-vacay.html` file.
 4. Use the `subl` command to open the file in Sublime. 
 5. Click on the `dream-vacay.html` file, type `html` in the file, and hit `tab`. 
     * If that didn't autofill html for you, copy and paste this into your html file: 
