@@ -36,7 +36,7 @@ Your vacation page must include the following:
 * An ordered list (best restaurants, best hotels, best beaches).
 * Links to 3 other similar destinations to suggest to your visitors.
 * Create a form that allows people to write a comment on your page. 
-> *HINT!!! you will be using `<form method="post">` don't worry about the `action` attribute. [Here](https://www.w3schools.com/html/html_forms.asp) is a good example
+> *HINT!!! you will be using `<form method="post">` don't worry about the `action` attribute yet, we'll talk about those later! [Here](https://www.w3schools.com/html/html_forms.asp) is a good example
 
 #### EXTENSION
 
