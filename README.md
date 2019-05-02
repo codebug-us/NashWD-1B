@@ -35,14 +35,13 @@ Your vacation page must include the following:
 * An unordered list of some sort (local attractions, animals in the area...).
 * An ordered list (best restaurants, best hotels, best beaches).
 * Links to 3 other similar destinations to suggest to your visitors.
-* A `<table>` of expenses summarizing how much this trip would cost. (You can make these up if you would like to! A luxurious trip to Paris for $5.00 :)) 
-
-> *Check out this image if you need inspiration* ![table](/table-image.png) 
+* Create a form that allows people to write a comment on your page. 
+> *HINT!!! you will be using `<form method="post">` don't worry about the `action` attribute. [Here](https://www.w3schools.com/html/html_forms.asp) is a good example
 
 #### EXTENSION
 
-* Create a form that allows people to write a comment on your page. 
-> *HINT!!! you will be using `<form method="post">` & Google is your friend*
+* A `<table>` of expenses summarizing how much this trip would cost. (You can make these up if you would like to! A luxurious trip to Paris for $5.00 :)) 
+> *Check out this image if you need inspiration* ![table](/table-image.png) 
 * Begin styling your website!
 
     * Note: You'll need to create a `style.css` page for your CSS styling.
