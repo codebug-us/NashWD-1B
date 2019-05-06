@@ -22,7 +22,7 @@
       </html>
     ```
 6. Add a title for your page in the `title` html element with the name of your recipe. 
-7. Use `open dream-vacay.html` or `start dream-vacay.html` on windows from your terminal to see your file in your web browser!
+7. Use `open dream-vacay.html` from your terminal to see your file in your web browser!
 
 # THE CODE
 > Don't worry if your vacation site doesn't look great, you'll be adding the styles later. 
@@ -41,7 +41,7 @@ Your vacation page must include the following:
 * Open `application.html` in sublime. Use `html` tab to create your base HTML. 
 * Add a header to your `application.html` that says something like "Apply to vacation with me!"
 * Open `application.html` in Chrome to make sure your header worked!
-* Now let's add a link to apply on your `index.html` that brings the user to this page `application.html`. You will need to use an `<a>` tag. It will look something like this: `<a href="application.html">Apply!</a>`
+* Now let's add a link to apply on your `dream-vacay.html` that brings the user to this page `application.html`. You will need to use an `<a>` tag. It will look something like this: `<a href="application.html">Apply!</a>`
 * In `application.html` 
     * add a paragraph tag that explains the purpose of this application.
     * Create a `<form>` 
