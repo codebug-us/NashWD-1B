@@ -21,13 +21,13 @@
          </body>
       </html>
     ```
-6. Add a title for your page in the `title` html element with the name of your recipe. 
+6. Add a title for your page in the `title` html element with the name of your dream vacation spot. 
 7. Use `open dream-vacay.html` from your terminal to see your file in your web browser!
 
 # THE CODE
 > Don't worry if your vacation site doesn't look great, you'll be adding the styles later. 
 
-Your vacation page must include the following:
+Your vacation page should include the following:
 
 * A header with the name of your destination.
 * A paragraph explaining some attraction and/or fun facts about your destination.
