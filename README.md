@@ -35,15 +35,26 @@ Your vacation page must include the following:
 * An unordered list of some sort (local attractions, animals in the area...).
 * An ordered list (best restaurants, best hotels, best beaches).
 * Links to 3 other similar destinations to suggest to your visitors.
-* Create a form that allows people to write a comment on your page. 
+* Create a form that allows people to write a comment on your page. (Note: This will not actually function yet)
 > *HINT!!! you will be using `<form method="post">` don't worry about the `action` attribute yet, we'll talk about those later! [Here](https://www.w3schools.com/html/html_forms.asp) is a good example
+* Use `touch` to create another html file inside your `NashWD-1B` folder. You can call it something like `application.html`. We are going to create an application for your friend to "apply" to go on this trip with you (ALL EXPENSES PAID).
+* Open `application.html` in sublime. Use `html` tab to create your base HTML. 
+* Add a header to your `application.html` that says something like "Apply to vacation with me!"
+* Open `application.html` in Chrome to make sure your header worked!
+* Now let's add a link to apply on your `index.html` that brings the user to this page `application.html`. You will need to use an `<a>` tag. It will look something like this: `<a href="application.html">Apply!</a>`
+* In `application.html` 
+    * add a paragraph tag that explains the purpose of this application.
+    * Create a `<form>` 
+    * Explore the different `<input>` types tht can be used in a form. Here's a [good list of the different input types](https://www.w3schools.com/html/html_form_input_types.asp).
+    * Add at least 4 different input types to your application form. Get creative! What qualities are you looking for in a travel buddy?
+* Use an `<iframe>` to add a video to your site. Here's a [great link](https://www.w3schools.com/html/html_youtube.asp) with some added features for YouTube videos.
+    
 
 #### EXTENSION
 
-* A `<table>` of expenses summarizing how much this trip would cost. (You can make these up if you would like to! A luxurious trip to Paris for $5.00 :)) 
+* Add a `<table>` of expenses summarizing how much this trip would cost. (You can make these up if you would like to! A luxurious trip to Paris for $5.00 :)) 
 > *Check out this image if you need inspiration* ![table](/table-image.png) 
 * Begin styling your website!
-
     * Note: You'll need to create a `style.css` page for your CSS styling.
     * Once you've created `style.css` you need to link your CSS file to our HTML file. If you've forgotten how to do that, check out this [link](https://teamtreehouse.com/community/htmlcss-linking).
 
