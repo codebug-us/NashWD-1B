@@ -45,7 +45,7 @@ Your vacation page must include the following:
 * In `application.html` 
     * add a paragraph tag that explains the purpose of this application.
     * Create a `<form>` 
-    * Explore the different `<input>` types tht can be used in a form. Here's a [good list of the different input types](https://www.w3schools.com/html/html_form_input_types.asp).
+    * Explore the different `<input>` types that can be used in a form. Here's a [good list of the different input types](https://www.w3schools.com/html/html_form_input_types.asp).
     * Add at least 4 different input types to your application form. Get creative! What qualities are you looking for in a travel buddy?
 * Use an `<iframe>` to add a video to your site. Here's a [great link](https://www.w3schools.com/html/html_youtube.asp) with some added features for YouTube videos.
     
