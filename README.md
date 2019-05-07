@@ -29,7 +29,19 @@
 
 Your vacation page should include the following:
 
-* A header with the name of your destination.
+* You will be writing all of your HTML inside of the `<body>` tag. For example:
+    ``` HTML
+      <!DOCTYPE html>     
+      <html>
+         <head>
+           <title></title>
+         </head>
+         <body>
+           <!-- write your HTML code here -->
+         </body>
+      </html>
+    ```
+* A heading with the name of your destination.
 * A paragraph explaining some attraction and/or fun facts about your destination.
 * A picture of the destination. Or many pictures if you'd like!
 * An unordered list of some sort (local attractions, animals in the area...).
